@@ -1,1 +1,1 @@
-console.log('@stephenash/canary-build-example: 2');
+console.log('@stephenash/canary-build-example: canary');
