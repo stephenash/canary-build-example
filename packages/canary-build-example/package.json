@@ -1,0 +1,21 @@
+{
+  "name": "@stephenash/canary-build-example",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Stephen Ash",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/canary-build-example.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

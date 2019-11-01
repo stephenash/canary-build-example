@@ -1,0 +1,12 @@
+{
+  "name": "@stephenash/canary-build-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "author": "stephenash",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.18.3"
+  },
+  "description": ""
+}
